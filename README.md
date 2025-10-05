@@ -13,7 +13,7 @@ Explanations of common bioinformatics tools and algorithms
 
 Notes and references for further learning
 
-## 🎯 Goals
+## 🎯 Goals 
 
 Help newcomers gain a solid foundation in bioinformatics
 
