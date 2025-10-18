@@ -11,7 +11,7 @@ Scripts in Python/R for sequence analysis, alignment, and visualization
 
 Explanations of common bioinformatics tools and algorithms
 
-Notes and references for further learning
+Notes and references for further learning 
 
 ## 🎯 Goals 
 
