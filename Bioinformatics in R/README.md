@@ -1,1 +1,1 @@
-# bioinformatics-tutorials
+# Bioinformatics-Tutorials
