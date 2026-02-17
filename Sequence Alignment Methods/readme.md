@@ -1,7 +1,7 @@
 ```methametica
 FASTA input
    ↓
-Alignment algorithm (custom implementation)
+Alignment algorithm (custom implementation )
    ↓
 Score / alignment / runtime / memory
    ↓
