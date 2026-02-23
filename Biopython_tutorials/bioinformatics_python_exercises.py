@@ -10,7 +10,7 @@ def exercise_001():
     Exercise 1: Read a FASTA file and count sequences
 
     Description: Parse a FASTA file and return the number of sequences.
-    Learning objectives: Practice file parsing, FASTA format rules.
+    Learning objectives: Practice file parsing, Fasta format rules.
     Hints: Handle multi-line sequences and headers.
     """
     # TODO: implement this exercise
