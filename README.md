@@ -21,7 +21,7 @@ Provide ready-to-use scripts and workflows
 
 Bridge the gap between biology and computational analysis
 
-## 🚀 Who Can Use It 
+## 🚀 Who Can Use It  
 
 Students learning bioinformatics for the first time
 
