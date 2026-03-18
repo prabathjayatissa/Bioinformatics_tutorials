@@ -1,4 +1,4 @@
-# How to use it
+## How to use it
 
 Open the notebook in Jupyter Notebook / JupyterLab
 
