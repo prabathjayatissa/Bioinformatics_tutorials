@@ -16,7 +16,7 @@ This workbook contains **110 exercises** ranging from *Beginner* to *Expert* lev
 
 ---
 
-
+ 
 ## Exercise 2: Compute GC content of a DNA sequence
 
 - **Level:** Mixed
