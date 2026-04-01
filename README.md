@@ -27,7 +27,8 @@ Students learning bioinformatics for the first time
 
 Researchers looking for quick references or sample code
 
-Educators seeking teaching material for workshops or courses 
+Educators seeking teaching material for workshops or courses
+ 
 
 
 
