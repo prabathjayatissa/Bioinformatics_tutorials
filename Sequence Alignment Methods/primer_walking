@@ -3,7 +3,7 @@ def find_overlap(seq1, seq2, min_overlap=10):
         overlap = seq1[i:]
         if seq2.startswith(overlap) and len(overlap) >= min_overlap:
             return overlap
-    return ""
+    return "" 
 
 def assemble_sequences(seqs):
     assembled = seqs[0]
