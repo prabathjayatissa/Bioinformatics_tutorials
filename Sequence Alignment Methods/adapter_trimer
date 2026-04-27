@@ -1,4 +1,4 @@
-#Adapter Trimer
+# Adapter Trimer
 adapters = {
 "Illumina": "AGATCGGAAGAGC",
 "Nanopore": "TTTCTGTTGGTGCTG",
