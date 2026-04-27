@@ -1,4 +1,4 @@
-# DNA Sequence Assembly Using Overlap Detection
+# DNA Sequence Assembly Using Overlap Detection 
 
 This repository demonstrates a simple Python implementation of **DNA sequence assembly** using an **overlap-based approach**. The goal is to reconstruct a longer DNA sequence from several shorter fragments by detecting overlapping regions between them.
 
@@ -45,11 +45,11 @@ def assemble_sequences(seqs):
     return assembled
 
 sequences = [
-"ATGCTAGCTAGGCTAACCGTACGATCGTACGTTAGCTAGCTA",
-"CGTACGTTAGCTAGCTAGGATCCGATCGATCGTTACGATCGA",
+"ATGCTAGCTAGGCTAACCGTACGATCGGTACGTTAGCTAGCTA",
+"CGTACGTTAGCTAGCTAGGATCCGAATCGATCGTTACGATCGA",
 "ATCCGATCGATCGTTACGATCGATGCTAGCTAGGCTAGCTAA",
 "GATGCTAGCTAGGCTAGCTAATCGGATCGATCGATCGTTAGC",
-"TCGGATCGATCGATCGTTAGCTAGCTAGCTAACCGTACGTTA"
+"TCGGATCGATCGATCGTTAGCTAGCTAGCTAACCGTACGTTTA"
 ]
 
 result = assemble_sequences(sequences)
