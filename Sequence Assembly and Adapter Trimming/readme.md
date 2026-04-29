@@ -6,7 +6,7 @@ Place your input files in the same directory:
 
  - primers.fasta
 
- - raw_reads.fasta
+ - raw_reads.fasta 
 
 Run cells top to bottom
 
