@@ -4,7 +4,7 @@ Open the notebook in Jupyter Notebook / JupyterLab
 
 Place your input files in the same directory:
 
- - primers.fasta
+ - primers.fasta 
 
  - raw_reads.fasta 
 
