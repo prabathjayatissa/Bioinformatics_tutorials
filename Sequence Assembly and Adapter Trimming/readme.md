@@ -19,3 +19,5 @@ assemble_primers("primers.fasta")
 trim_fasta("raw_reads.fasta", "trimmed_reads.fasta")
 
 ```
+
+
