@@ -2,7 +2,7 @@
 print("hello world")
 print(1)
 
-
+   
 #assignments
 dna <- "ATCGC"
 print(dna)
