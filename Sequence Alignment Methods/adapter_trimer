@@ -1,0 +1,23 @@
+# Adapter Trimer
+adapters = {
+"Illumina": "AGATCGGAAGAGC",
+"Nanopore": "TTTCTGTTGGTGCTG",
+"PacBio": "ATCTCTCTCAACA"
+}
+
+def trim_adapter(sequence, adapter):
+    if sequence.startswith(adapter):
+        return sequence[len(adapter):]
+    return sequence
+
+reads = [
+("Illumina","AGATCGGAAGAGCATGCTAGCTAGCTAACGTTAGCTAGCTAGCTA"),
+("Nanopore","TTTCTGTTGGTGCTGATGCTAGCTAGGCTAACCGTACGTTAGC"),
+("PacBio","ATCTCTCTCAACAGATCGATCGATCGTTAGCTAGCTAACCGTA")
+
+]
+
+for device, seq in reads:
+    cleaned = trim_adapter(seq, adapters[device])
+    print(device, "clean sequence:")
+    print(cleaned)
