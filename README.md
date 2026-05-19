@@ -1,7 +1,7 @@
 # 📘 Bioinformatics Tutorial Repository 
 This repository provides a collection of tutorials, resources, and practical examples for learning bioinformatics. It is designed for beginners, students, and researchers who want to explore computational methods for analyzing biological data.  
 
-## 🔬 What’s Inside
+## 🔬 What’s Inside   
 
 Step-by-step tutorials covering essential bioinformatics topics
 
@@ -11,9 +11,9 @@ Scripts in Python/R for sequence analysis, alignment, and visualization
 
 Explanations of common bioinformatics tools and algorithms
 
-Notes and references for further learning
+Notes and references for further learning 
 
-## 🎯 Goals
+## 🎯 Goals 
 
 Help newcomers gain a solid foundation in bioinformatics
 
@@ -27,4 +27,9 @@ Students learning bioinformatics for the first time
 
 Researchers looking for quick references or sample code
 
-Educators seeking teaching material for workshops or courses
+Educators seeking teaching material for workshops or courses.
+ 
+
+
+
+

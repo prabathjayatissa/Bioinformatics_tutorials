@@ -1,0 +1,31 @@
+def find_overlap(seq1, seq2, min_overlap=10):
+    for i in range(len(seq1)):
+        overlap = seq1[i:]
+        if seq2.startswith(overlap) and len(overlap) >= min_overlap:
+            return overlap
+    return "" 
+
+def assemble_sequences(seqs):
+    assembled = seqs[0]
+
+    for seq in seqs[1:]:
+        overlap = find_overlap(assembled, seq)
+        if overlap:
+            assembled += seq[len(overlap):]
+        else:
+            assembled += seq
+
+    return assembled
+
+sequences = [
+"ATGCTAGCTAGGCTAACCGTACGATCGTACGTTAGCTAGCTAA",
+"CGTACGTTAGCTAGCTAGGATCCGATCGATCGTTACGATCGAA",
+"ATCCGATCGATCGTTACGATCGATGCTAGCTAGGCTAGCTAAA",
+"GATGCTAGCTAGGCTAGCTAATCGGATCGATCGATCGTTAGCA",
+"TCGGATCGATCGATCGTTAGCTAGCTAGCTAACCGTACGTTAA"
+]
+
+result = assemble_sequences(sequences)
+ 
+print("Final DNA:")
+print(result)
