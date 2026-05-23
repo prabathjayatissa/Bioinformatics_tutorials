@@ -3,7 +3,7 @@ This repository provides a collection of tutorials, resources, and practical exa
 
 ## 🔬 What’s Inside   
 
-Step-by-step tutorials covering essential bioinformatics topics
+Step-by-step tutorials covering essential bioinformatics topics 
 
 Example datasets for hands-on practice
 
