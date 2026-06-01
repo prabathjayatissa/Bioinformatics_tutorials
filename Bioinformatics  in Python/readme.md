@@ -1,4 +1,4 @@
- markdown_content = """# Bioinformatics Python Pipelines
+# Bioinformatics Python Pipelines
 
 This document provides an overview of the two Jupyter Notebooks designed for basic bioinformatics sequence analysis using **Biopython**.
 
