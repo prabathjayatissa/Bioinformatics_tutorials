@@ -1,6 +1,7 @@
 #print statements
-print("Hello world")
+print("hello world")
 print(1)
+
 
 #assignments
 dna <- "ATCGC"
@@ -237,6 +238,7 @@ sample_id <- c("P001","P002","P003","P004")
 #plot the bar chart
 barplot(snp_count, names.arg=sample_id,xlab="Sample",ylab="Number of snps",
         col="green",main="SNP Count")
+
 
 
 

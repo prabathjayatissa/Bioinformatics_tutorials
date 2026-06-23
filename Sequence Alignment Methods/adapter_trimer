@@ -17,6 +17,7 @@ reads = [
 
 ]
 
+# Gives the clean sequence.
 for device, seq in reads:
     cleaned = trim_adapter(seq, adapters[device])
     print(device, "clean sequence:")

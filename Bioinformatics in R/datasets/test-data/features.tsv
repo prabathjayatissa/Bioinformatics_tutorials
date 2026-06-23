@@ -678,7 +678,7 @@ P7741_00338	CDS	702	phaB	1.1.1.36		Acetoacetyl-CoA reductase
 P7741_00339	gene	201				
 P7741_00339	CDS	201				hypothetical protein
 P7741_00340	gene	1365	cinA_1			
-P7741_00340	CDS	1365	cinA_1	1.14.14.133		1,8-cineole 2-endo-monooxygenase
+P7741_00340	CDS	1365	cinA_1	1.14.14.133		1,8-cineole 2-endo-monooxygenase 
 P7741_00341	gene	2163				
 P7741_00341	CDS	2163				hypothetical protein
 P7741_00342	gene	501	baiE			
