@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 ### 2. Basic Data Structures
 
 #### Series
+
 s = pd.Series([1, 3, 5, np.nan, 6, 8])
 print("Series:")
 print(s)
@@ -21,6 +22,7 @@ print(df)
 ### 4. Reading and Writing Data
 
 #### Reading from a CSV File
+
 # Assuming you have a file named 'data.csv' in the same directory
 try:
     df = pd.read_csv('data.csv')
