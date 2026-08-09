@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 ### 2. Basic Data Structures
 
-#### Series
+#### Series 
 
 s = pd.Series([1, 3, 5, np.nan, 6, 8])
 print("Series:")
