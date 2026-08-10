@@ -3,7 +3,7 @@
 NUMPY MASTERCLASS
 For MSc Tissue Engineering Students (FHTW)
 
-Author: Dr Prabath Jayathissa
+Author: Dr Prabath Jayathissa - FHTW
 ==============================================================
 """
 
