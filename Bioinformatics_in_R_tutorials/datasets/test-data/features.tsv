@@ -9770,10 +9770,3 @@ P7741_04884	CDS	240				hypothetical protein
 P7741_04885	gene	402				
 P7741_04885	CDS	402				hypothetical protein
 P7741_04886	gene	177				
-P7741_04886	CDS	177				hypothetical protein
-P7741_04887	gene	456				
-P7741_04887	CDS	456				hypothetical protein
-P7741_04888	gene	573	mviN			
-P7741_04888	CDS	573	mviN		COG0728	putative peptidoglycan biosynthesis protein MviN
-P7741_04889	gene	588	sigM			
-P7741_04889	CDS	588	sigM			ECF RNA polymerase sigma factor SigM
