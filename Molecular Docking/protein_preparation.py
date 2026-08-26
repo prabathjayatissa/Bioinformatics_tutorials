@@ -4,7 +4,8 @@
 from rdkit import Chem, RDLogger
 from rdkit.Chem import AllChem
 
-# Silence RDKit warnings/errors to avoid noisy output during batch runs
+# Silence RDKit warnings/errors to avoid noisy output during batch runs on the Protein
+
 RDLogger.DisableLog('rdApp.*')
 
 
