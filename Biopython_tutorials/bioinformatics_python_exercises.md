@@ -1,4 +1,4 @@
-# 110 Python Exercises for Introduction to Bioinformatics
+# Python Exercises for Introduction to Bioinformatics
 
 This workbook contains **110 exercises** ranging from *Beginner* to *Expert* levels. Each exercise includes a short description, learning objectives, and a starter code snippet (where appropriate).
 
